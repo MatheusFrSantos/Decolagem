@@ -66,6 +66,9 @@ Fórmula utilizada:
 <img width="1222" height="945" alt="Lançamento positivo" src="https://github.com/user-attachments/assets/1fb4a404-f516-47fd-84a2-5f408cf3a7cb" />
 <img width="1222" height="972" alt="Lançamento negativo" src="https://github.com/user-attachments/assets/d30d6840-9615-4075-b28d-3c144148591c" />
 <img width="1190" height="466" alt="Energia" src="https://github.com/user-attachments/assets/f1557b9a-7c60-4c8f-a932-fdd79fb698f5" />
+## Repositório no GitHub:
+
+https://github.com/MatheusFrSantos/Decolagem.git
 
 ## 👨‍💻 Autor
 Matheus Freitas da Silva Santos
